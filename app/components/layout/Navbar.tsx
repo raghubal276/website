@@ -17,7 +17,8 @@ export default function Navbar() {
         </div> */}
         <Link href="/" className="flex items-center gap-2">
           <Image
-            src="/images/zokbee_logo_font_new_bg.png"
+            // src="/images/zokbee_logo_font_new_bg.png"
+            src="/images/zokbee_logo_new_3.png"
             alt="Company Logo"
             width={120}
             height={10}
